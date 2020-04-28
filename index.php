@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-138230632-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-138230632-1');
+</script>
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "KR PRINT",
+        "url": "https://www.krprint.com",
+        "sameAs": [
+
+          "https://www.instagram.com/krprint_/",
+          "https://wa.me/08989583905",
+        ],
+        "email": ["kabulrprinting@gmail.com"],
+        "telephone": ["+628989583905"]
+      }
+    </script>
+<!--Favicon-->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.1.7/css/fork-awesome.min.css" integrity="sha256-gsmEoJAws/Kd3CjuOQzLie5Q3yshhvmo7YNtBG7aaEY=" crossorigin="anonymous">
+<link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-icon-57x57kr.png">
+<link rel="apple-touch-icon" sizes="60x60" href="favicon/apple-icon-60x60kr.png">
+<link rel="apple-touch-icon" sizes="72x72" href="favicon/apple-icon-72x72kr.png">
+<link rel="apple-touch-icon" sizes="76x76" href="favicon/apple-icon-76x76kr.png">
+<link rel="apple-touch-icon" sizes="114x114" href="favicon/apple-icon-114x114kr.png">
+<link rel="apple-touch-icon" sizes="120x120" href="favicon/apple-icon-120x120kr.png">
+<link rel="apple-touch-icon" sizes="144x144" href="favicon/apple-icon-144x144kr.png">
+<link rel="apple-touch-icon" sizes="152x152" href="favicon/apple-icon-152x152kr.png">
+<link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-icon-180x180kr.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="favicon/android-icon-192x192kr.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32kr.png">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon/favicon-96x96kr.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16kr.png">
+<link rel="manifest" href="favicon/manifest.json">
+<!-- CSS Front Template -->
+<link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+
+<title>KRPRINT</title>
+<!-- Plugins CSS -->
+<link rel="stylesheet" type="text/css" href="assets/vendor/themify-icons/css/themify-icons.css" />
+
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="msapplication-TileImage" content="/ms-icon-144x144kr.png">
+<meta name="theme-color" content="#ffffff">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="KRPRINT">
+<meta name="description" content="We create a unique website, professional graphic design, best quality digital printing and branding identity for your business.">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
+
+    <style>
+        /* Make the image fully responsive */
+        .carousel-inner img {
+            width: 100%;
+            height: 100%;
+        }
+ 
+        .input-opacity {
+            opacity: 0.9;
+        }
+    </style>
+</head>
+
+<body>
+
+	<!--Header-->
+<header class="container-fluid bg-light" id="home-navigation">
+	<div class="container">
+		<nav class="navbar navbar-expand-lg bg-light navbar-light fixed-top" style="border-bottom: 4px solid #7E2726;">
+					<a class="navbar-brand" href="home">
+						<img src="src/img/KR DIGITAL2.png" alt="web designer" title="KRPRINT" style="width: 190px; height:50px;">
+					</a>
+					<button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+	<div class="collapse navbar-collapse" id="collapsibleNavbar">
+			<ul class="navbar-nav ml-auto font-weight-bold text-capitalize" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
+				<li class="nav-item">
+					<a class="nav-link text-danger" title="WELCOME TO KRPRINT" href="home" style="color: #4B4B4D; font-size: 15px; font-weight: bold">HOME</a>
+				</li>
+						
+				<!-- Menu item 2 Blog-->
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" title="SERVICE" href="#" id="blogMenu" 
+							style="color: #4B4B4D; font-size: 15px; font-weight: bold" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">WHAT WE MAKE</a>
+						
+						<ul class="dropdown-menu" aria-labelledby="blogMenu">
+							<li class="dropdown-submenu">
+								<a class="dropdown-item" href="blog">Marketing Item</a>
+							</li>
+							<li class="dropdown-submenu">
+								<a class="dropdown-item" href="blog_02.html">Office Stationary</a>
+							</li>
+							<li class="dropdown-submenu">
+								<a class="dropdown-item" href="blog_03.html">Wedding Program</a>
+							</li>
+							<li class="dropdown-submenu">
+								<a class="dropdown-item" href="blog_04.html">Gift Items & Souvenir</a>
+							</li>							
+							<li class="dropdown-submenu">
+								<a class="dropdown-item" href="blog_05.html">Frelance Design</a>
+							</li>
+							<li class="dropdown-submenu">
+								<a class="dropdown-item" href="blog_06.html">Web Design</a>
+							</li>
+							<li class="dropdown-submenu">
+								<a class="dropdown-item" href="blog_07.html">Screen Printing</a>
+							</li>
+							<li class="dropdown-submenu">
+								<a class="dropdown-item" href="service">Our Service</a>
+							</li>
+						</ul>
+					</li>
+						<li class="nav-item">
+							<a class="nav-link" title="BLOG" href="blog"
+							style="color: #4B4B4D; font-size: 15px; font-weight: bold">BLOG</a>
+					</li>
+						<li class="nav-item">
+								<a class="nav-link" title="PORTFOLIO" href="portfolio"
+								style="color: #4B4B4D; font-size: 15px; font-weight: bold">PORTFOLIO</a>
+						</li>
+						<li class="nav-item">
+								<a class="nav-link" title="CONTACT" href="contact"
+								style="color: #4B4B4D; font-size: 15px; font-weight: bold">CONTACT</a>
+						</li>
+							<li class="nav-item"><a class="nav-link" href="https://wa.me/08989583905?text=Hallo Krprint!" target="_blank"
+							 title="WHATSAPP">
+							<i class="fa fa-whatsapp font-social-media" style="color: #000000"></i></a>
+							</li>
+							<li class="nav-item"><a class="nav-link" href="https://www.instagram.com/krprint_/" target="_blank"title="INSTAGRAM">
+							<i class="fa fa-instagram font-social-media" style="color: #000000;"></i></a>
+							</li>
+							<li class="nav-item"><a class="nav-link" href="mailto:kabulrprinting@gmail.com" target="_blank"title="GMAIL">
+							<i class="fa fa-envelope-o font-social-media" style="color: #000000;"></i></a>
+							</li>
+							
+			</ul>
+		</nav>
+	</div>
+</header>
+	<!-- =======================
+	header End-->
+
+    <!--slide-->
+    <div id="carouselExampleFade" class="carousel slide carousel-fade slide_margin  slide_margins" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+    <img src="src/img/krprint4.jpg" alt="KR PRINT" 
+    title="KR PRINT" width="1100" height="500">
+    </div>
+    <div class="carousel-item">
+    <img src="src/img/krprint.jpg" alt="KR PRINT" 
+    title="KR PRINT" width="1100" height="500">
+    <div class="carousel-caption carousel-slides carousel-slidespix">
+        <p>WEB DESIGNS | GRAPHICS DESIGNS | CREATIVE BRANDING | PRINTING</p>
+    </div>
+    </div>
+    <div class="carousel-item">
+    <img src="src/img/krprint3.jpg" alt="Website Designer" 
+    title="Website Designer" width="1100" height="500">
+    <div class="carousel-caption">
+        <h3 class="text-uppercase text-white carousel-slides">Call us today</h3>
+        <p class="text-uppercase">...We give out the best</p>
+    </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+    
+    <div class="m-4 text-center">
+        <h1 class="pb-2 font-weight-bolder weOffer" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">WHAT DO YOU WANT TO MAKE?
+                <a href="" class="typewrite" data-period="2000" data-type='[ "WEB DESIGN", "GRAPHIC DESIGN", "DIGITAL PRINTING", "WEDDING INVITATION"]'>
+                  <span class="wrap" style="text-decoration: none;"></span>
+                </a>
+            </h1>
+    </div>
+
+
+   <!-- =======================
+  Pricing -->
+	<section class="pricing-page pricing pricing-center">
+	<div class="container">
+	<div class="row">
+					<!-- pricing item -->
+					<div class="col-md-4 mb-2 ">
+            <a href="blog_04.html">
+              <div class="pricing-box h-100 rounded shadow " style="background-image:url(assets/images/portfolio/mug.jpg); background-position: center top; background-size: cover;">
+                <h5 class="text-white">Personal Plan</h5>
+                <p class="text-white">Give a present to the person you love.</p>
+              </div>
+            </a>
+					</div>
+					<!-- pricing item -->
+					<div class="col-md-4 mb-2">
+            <a href="blog_06.html">
+              <div class="pricing-box h-100 shadow no-border box rounded"style="background-image:url(assets/images/portfolio/013.jpg); background-position: center top; background-size: cover;">
+                <div class="ribbon"><span>POPULAR</span></div>
+                <h5 class="text-white">Business Plan</h5>
+                <p class="text-white">Responsive Website + Web Hosting + Domain Name.</p>
+              </div>
+            </a>
+					</div>
+					<!-- pricing item -->
+					<div class="col-md-4 mb-2">
+            <a href="blog">
+              <div class="pricing-box h-100 rounded shadow " style="background-image:url(assets/images/portfolio/005.jpg); background-position: center top; background-size: cover;">
+                <h5 class="text-white">Marketing Plan</h5>
+                <p class="text-white">Printing for your business</p>
+              </div>
+            </a>
+					</div>
+        </div>
+        <a class="btn btn-dark mt-4 font-weight-bold text-white" href="https://wa.me/08989583905?text=Hallo krprint!">Order now!</a>
+
+
+			</div>
+		</section>
+
+    <!--DETAILS ABOUT-->
+    <div class="container-fluid bg-danger" id="ourfeatures">
+        <div class="container p-2">
+            <div>
+                <h3 class="text-center font-weight-bold text-light">SERVICES WE PROVIDE</h3>
+            </div>
+            <div class="row justify-content-center">
+                <a href="#graphics-designs" class="col-lg-3 p-3 m-3 rounded 
+                        shadow shadow-small border border-4 bg-light
+                        text-dark" style="text-decoration: none">
+                    <div class="text-center">
+                      <h2 class="icon-primary"><i class="ti-pencil-alt"></i></h2>
+                        <h5 class="font-weight-bold">GRAPHIC DESIGN</h5>
+                        <p><span class="text-uppercase">LOGO DESIGN, FREELANCE DESIGN, OFFICE STATIONARIES DESIGN, etc...</span></p>
+                    </div>
+                </a>
+
+                <a href="#web-designs" class="col-lg-3 p-3 m-3 rounded 
+                    shadow shadow-small border border-4 bg-light
+                    text-dark" style="text-decoration: none">
+                    <div class="text-center">
+                      <h2><i class="ti-world icon-white"></i></h2>
+                        <h5 class="font-weight-bold">WEB DESIGNS</h5>
+                        <p><span class="text-uppercase">UI/UX DESIGN, E-COMMERCE WEBSITE
+                        FOR WEB & MOBILE</span></p>
+                    </div>
+                </a>
+                <a href="#graphics-designs" class="col-lg-3 p-3 m-3 rounded 
+                shadow shadow-small border border-4 bg-light
+                text-dark" style="text-decoration: none">
+                    <div class="text-center">
+                      <h2 class="icon-primary"><i class="ti-printer"></i></h2>
+                        <h5 class="font-weight-bold">DIGITAL PRINTING SERVICE</h5>
+                        <p>MAGAZINES OFFICE STATIONARIES, BOOK PUBLISHING,
+                            LIGHT-PACKAGING, ID CARD, ETC...</p>
+                    </div>
+                </a>
+
+                <a href="#branding-designs" class="col-lg-3 p-3 m-3 rounded shadow 
+                shadow-small border border-4 bg-light text-dark" style="text-decoration: none">
+                    <div class="text-center">
+                      <h2 class="icon-primary"><i class="ti-bookmark-alt"></i></h2>
+                        <h5 class="font-weight-bold">WEDDING PROGRAM</h5>
+                        <p>INVITATION, PHOTO BOOTH, PHOTO ALBUM, ETC...</p>
+                    </div>
+                </a>
+
+                <a href="https://www.instagram.com/krprint_/" target="_blank" class="col-lg-3 p-3 m-3 rounded 
+                    shadow shadow-small border border-4 bg-light
+                    text-dark" style="text-decoration: none">
+                    <div class="text-center">
+                      <h2 class="icon-primary"><i class="ti-folder"></i></h2>
+                        <h5 class="font-weight-bold">MY PORTFOLIO</h5>
+                        <p id="graphics-designs">Go to our link and follow on<br><strong>INSTAGRAM</strong></p>
+                    </div>
+                </a>
+
+            </div>
+
+
+
+        </div>
+    </div>
+
+    <!--GRAPHICS DESIGN DETAILS-->
+    <section class="container-fluid p-2" >
+        <h3 class=" text-center font-weight-bold">GRAPHIC DESIGNS AND PRINTING</h3>
+        <div class="row mx-auto">
+            <div class="col-4">
+                <img src="src/img/8.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/46.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/12.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/13a.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/34.png" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/28.png" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/2.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/27.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/24a.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/32.png" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/7.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/6.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/4.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/5.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/3.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/1n.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/1m.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/1l.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/22b.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/70.png" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/49.png" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/1r.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/1o.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/1s.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/1q.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4">
+                <img src="src/img/1p.jpg" class="img-fluid m-1">
+            </div>
+            <div class="col-4" id="web-designs">
+                <img src="src/img/22a.jpg" class="img-fluid m-1">
+            </div>
+        </div>
+    </section>
+
+    <!--WEB DESIGNS DESIGN DETAILS-->
+    <section class="container-fluid p-2 bg-dark m-auto">
+        <h3 class=" text-center font-weight-bold text-light" title="KRPRINT WEB DESIGNS">WEB DESIGN</h3>
+        <p class="text-center text-light">Web Design JavaScript for Mobile and Laptops
+        </p>
+        <img src="src/img/responsive web2.jpg" class="img-fluid mx-auto" alt="Website Design"
+        title="Website Design">
+        <img src="src/img/responsive web1.jpg" class="img-fluid mx-auto m-1" alt="web design"
+        title="Web Design in">
+        </p>
+        <p>
+    </section>
+<!--BRANDING DESIGN DETAIL-->
+<article class="container-fluid p-2 bg-light" id="branding-designs">
+    <div>
+        <h3 class=" text-center font-weight-bold" >WEDDING PROGRAM</h3>
+    </div>
+    <div class="row mx-auto">
+        <div class="col-4">
+            <img src="src/img/24.jpg" class="img-fluid m-1">
+        </div>
+        <div class="col-4">
+            <img src="src/img/1a.jpg" class="img-fluid m-1">
+        </div>
+        <div class="col-4">
+            <img src="src/img/1.jpg" class="img-fluid m-1">
+        </div>
+        <div class="col-4">
+            <img src="src/img/1b.jpg" class="img-fluid m-1">
+        </div>
+        <div class="col-4">
+            <img src="src/img/webinvit.jpg" class="img-fluid m-1">
+        </div>
+        <div class="col-4">
+            <img src="src/img/1d.jpg" class="img-fluid m-1">
+        </div>
+        <div class="col-4">
+            <img src="src/img/1y.jpg" class="img-fluid m-1">
+        </div>
+        <div class="col-4">
+            <img src="src/img/1u.jpg" class="img-fluid m-1">
+        </div>
+        <div class="col-4">
+            <img src="src/img/1z.jpg" class="img-fluid m-1">
+        </div>
+        <div class="col-4">
+            <img src="src/img/1v.jpg" class="img-fluid m-1">
+        </div>
+        <div class="col-4">
+          <img src="src/img/photobooth.jpg" class="img-fluid m-1">
+      </div>
+        <div class="col-4">
+            <img src="src/img/1xz.jpg" class="img-fluid m-1">
+        </div>
+        <div class="col-4">
+            <img src="src/img/1h.jpg" class="img-fluid m-1">
+        </div>
+        <div class="col-4">
+            <img src="src/img/1w.jpg" class="img-fluid m-1">
+        </div>
+        <div class="col-4">
+            <img src="src/img/1i.jpg" class="img-fluid m-1">
+        </div>
+       </div>
+</article>
+
+        <!-- =======================footer  -->
+	<footer class="footer pt-6" style="background: black;">
+		<div class="footer-content pb-3 text-all-white">
+			<div class="container">
+				<div class="row">
+					<!-- Footer widget 1 -->
+					<div class="col-md-4">
+						<div class="widget">
+							<a href="home" class="footer-logo">
+								<!-- footer IMG logo Start -->
+								<img src="src/img/kr digital3.png" alt="krprint"
+										title="KRPRINT" style="width: 190px; height:50px;">
+								<!-- footer IMG logo End -->
+							</a>
+							<p class="mt-3">Graphic Design, Web Design, UI UX Design, Digital Printing and Screen Printing.</p>
+							<p>Full Reponsive Websites and Application, Creative Branding, Graphic Design for Business Advertisement and High-quality Printing. </p>
+						</div>
+					</div>
+					<!-- Footer widget 2 -->
+					<div class="col-md-3 col-sm-6">
+						<div class="widget address text-all-white">
+							<ul class="list-unstyled">
+								<li class="media mb-3"><i class="mr-3 display-8 ti-map-alt"></i>Cibarusah Kota, Bekasi. </li>
+								<li class="media mb-3"><i class="mr-3 display-8 ti-headphone-alt"></i> <a class="mr-1" href="tel:+628989583905">+62 8989 5839 05</a> </li>
+								<li class="media mb-3"><i class="mr-3 display-8 ti-email"></i><a href="mailto:kabulrprinting@gmail" class="text-all-white">kabulprint<br>@gmail.com</a></li>
+								<li class="media mb-3"><i class="mr-3 display-8 ti-time"></i>
+									<p>Mon - Fri: <strong>08:00 - 16:00.</strong> <br>Sat: <strong>08:00 - 14:00.</strong> Sun: <strong>Closed</strong></p>
+								</li>
+							</ul>
+						</div>
+					</div>
+						<!-- Footer widget 3 -->
+						<div class="col-md-2 col-sm-6">
+							<div class="widget">
+								<h6 class="text-warning">Quick Links</h6>
+								<ul class="nav flex-column primary-hover">
+                <li class="nav-item"><a class="nav-link text-danger" href="home">Home</a></li>
+								<li class="nav-item"><a class="nav-link" href="blog" >Blog</a></li>
+								  <li class="nav-item"><a class="nav-link" href="service">Service</a></li>
+								<li class="nav-item"><a class="nav-link" href="contact">Contact</a></li>
+								  <li class="nav-item"><a class="nav-link" href="portfolio">Portfolio</a></li>
+								</ul>
+							</div>
+						</div>
+					<!-- Footer widget 4 -->
+					<div class="col-md-3">
+						<div class="widget">
+							<div class="form-group mb-0">
+					
+								<h6 class="text-warning">Chat with us on</h6>
+				<ul class="social-icons si-colored-bg light mx-auto d-block mt-3">
+                  <li class="social-icons-item social-whatsapp">
+                    <a class="social-icons-link" href="https://wa.me/08989583905"><i class="fa fa-whatsapp" target="_blank"></i></a>
+                  </li>
+				  <li class="social-icons-item social-instagram">
+                    <a class="social-icons-link" href="https://www.instagram.com/krprint_/"><i class="fa fa-instagram" target="_blank"></i></a>
+                  </li>
+				</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- Footer widget 4 -->
+			</div>
+		</div>
+		<div class="divider mt-3"></div>
+		<!--footer copyright -->
+		<div class="footer-copyright py-3">
+			<div class="container">
+				<div class="d-md-flex justify-content-between align-items-center py-3 text-center text-md-left">
+					<!-- copyright text -->
+					<div class="copyright-text text-white">Copyright © 2020 by <a href="home" style="color: #d4d4d4"> krprint.</a></div>
+					
+				</div>
+			</div>
+		</div>
+		
+	</footer>
+	<!-- =======================footer  -->
+	
+<!--Scroll-->
+<div> <a href="#" class="back-top btn btn-grad-danger"><i class="fa fa-arrow-up"></i></a> </div>
+<script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
+<script src="main.js"></script>
+
+<!--Global JS-->
+<script src="contact.js"></script>
+	<script src="assets/vendor/jquery-easing/jquery.easing.min.js"></script>
+<!--Template Functions-->
+<script src="assets/js/functions.js"></script>
+
+</body>
+
+</html>
